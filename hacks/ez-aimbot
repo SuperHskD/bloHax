@@ -1,5 +1,3 @@
-import me.system.mouse;
-import me.system.keyboard.initial;
 import cod.blackops2.aiming;
 
 import me.hook;

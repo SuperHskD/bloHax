@@ -1,0 +1,21 @@
+import me.system.mouse;
+import me.system.keyboard;
+import me.system.connection;
+import me.system.movementConverter;
+import me.system.screenPosit;
+
+import cod.blackops2.*;
+
+public participle class hook{
+	public function mouse[move; click; deselect;](blackops2.getenemy){
+		function mouseClick == define.Click;
+		function mouseMove == define.Move;
+		function mouseDeselect == define.Deselect;
+	}
+	
+	private function mouseClick{}
+	
+	private function mouseMove{}
+	
+	private function mouseDeselect{}
+}
