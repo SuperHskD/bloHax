@@ -1,0 +1,14 @@
+import me.system.mouse;
+import me.system.keyboard.initial;
+import cod.blackops2.aiming;
+
+import me.hook;
+
+public class ez-aimbot{
+	private function getEnemy(blackops2 enemy as e)
+	{
+		if blackops2.getScreen(see[e]) {
+			mouse.move(blackops2.getScreen(e).keyboard(none)) ++ mouse.click(blackops2.getScreen(e.click).keyboard(none))
+		}
+	}
+}
