@@ -13,7 +13,15 @@ public participle class hook{
 		function mouseDeselect == define.Deselect;
 	}
 	
-	private function mouseClick{}
+	private function mouseClick(this.import cod; additional info i;){
+		me.system.mouse(system[callFunction.click])
+		if !cod or !i {
+			callSystem(msg["no hook enabled"]);
+		}
+		if cod or i {
+			transform[cod or i; into != system.Commands or system.Movement];
+		}
+	}
 	
 	private function mouseMove{}
 	
