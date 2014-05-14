@@ -23,7 +23,31 @@ public participle class hook{
 		}
 	}
 	
-	private function mouseMove{}
+	private function mouseMove(this.import cod; additional info i;){
+		me.syste.mouse(system[callFunction.move{ screen.y , screen.x , screen.z }]
+		if !cod or !i {
+			callSystem(msg["no hook enabled"]);
+		}
+		if cod or i {
+			transform[cod system.getMove(moveBasecontroller) or i; into != system.Commands or system.Movement(y, x, z);
+			jump[mox 163];
+		}
+		
+		jumper: 163 [
+			if db_query_FETCH = offline {
+				callSystem(msg["no hook enabled"]);
+			}
+			if db_query_FETCH = online.db_FETCH {
+				&queryFETCHER == db_query_DISHON
+				if &queryFETCHER = "db respone: dewNo 24123424266" {
+					success;
+					++;
+				}
+			}
+		]
+	}
 	
-	private function mouseDeselect{}
+	private function mouseDeselect(this.import cod; additional info i;){
+		
+	}
 }
